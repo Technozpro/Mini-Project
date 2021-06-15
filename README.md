@@ -10,6 +10,3 @@ Data Of Images [dataset] -  https://drive.google.com/drive/folders/1JH-y9OHO3tFm
 To Run Project File Need To First Download Dataset From Above Link And Then On Your Drive Mount Dataset To see The Output.
 
 At The Time OF Using Runtime URL Please Use URL Of Image Which Start With "HTTPS" OtherWise You Will Get "FILE NOT FOUND" ERROR
-
-
-
