@@ -1,0 +1,49 @@
+Image Classification Using Machine Learning-Support Vector Machine(SVM)
+
+Introduction
+Machine learning is an application of artificial intelligence, which allows the computer to operate in a self-learning mode, without being explicitly programmed. It is a very interesting and complex topic, which could drive the future of technology.
+There are copious applications of Machine learning, out of which Image Classification is one. To classify images, here we are using SVM. Scikit-learn is a free software machine learning library for the Python programming language and Support vector machine(SVM) is subsumed under Scikit-learn.
+Tools Used
+→ Python syntax
+→ Pandas library for data frame
+→ Support vector Machine(svm) from sklearn (a.k.a scikit-learn) library
+→ GridSearchCV
+→ skimage library for reading the image
+→ matplotlib for visualization purpose
+
+
+Support Vector Machine(SVM)
+“Support Vector Machine” (SVM) is a supervised machine learning algorithm that can be used for both classification or regression challenges. However, it is mostly used in classification problems. In this SVM algorithm, we plot each data item as a point in n-dimensional space (where n is the number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well.
+Some of the key parameters in SVM are:
+→ Gamma : defines how far the influence of single training examples reaches values leads to biased results.
+→ C : Controls the cost of miscalculations
+Small C — makes the cost of misclassification LOW
+Large C — makes the cost of misclassification HIGH
+→ Kernel : SVM algorithms use a set of mathematical functions that are defined as the kernel.
+Types of Kernels are: Linear, RBF(Radial Basis Function), Polynomial Kernel
+
+GridSearchCV
+It is a library function that is a member of sklearn’s model_selection package. It helps to loop through predefined hyperparameters and fit your estimator (model) on your training set. So, in the end, you can select the best parameters from the listed hyperparameters.
+Enough of theory, let’s get started with the coding part.
+Process
+It is one of the ways of machine learning where the model is trained by input data and expected output data.
+To create such a model, it is necessary to go through the following phases:
+1.Taking input
+2. Model construction
+3. Model training
+4. Model testing
+5.Model evaluation
+
+Model training: The data is split into two categories: training data and testing data. Training data is used to train the model whereas testing data is used to test the trained model.
+For splitting the data into training and testing, train_test_split() from sklearn library is used.
+Model is trained using training data in this way
+→ model.fit(training_data,expected_output)
+
+Model testing: Now the model is tested using testing data in this way
+→ model.predict(testing_data)
+The accuracy of the model can be calculated using the accuracy_score() method from sklearn.metrics
+
+
+Conclusion:
+In this work, I assembled and trained the SVM model to classify images of Supercars, Laptops, and Mobiles. 
+I used GridSearchCV to find out the best parameters for SVM to classify the images and have measured the accuracy of the model.
