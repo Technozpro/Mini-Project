@@ -1,7 +1,7 @@
 # Mini-Project-
-Image Classification Using SVM Mini Project [ML-MINOR-MAY]
-
 <p align="center"><img src="https://w7.pngwing.com/pngs/407/974/png-transparent-human-intellect-illustration-artificial-intelligence-deep-learning-machine-learning-computer-icons-artificial-neural-network-technology.png?raw=true" alt="ML" height =300 ,width =480></p>
+
+Image Classification Using SVM Mini Project [ML-MINOR-MAY]
 
 Project Link - https://colab.research.google.com/drive/1byyAMxrhuJgX5KPX_rTYbaqsCzk9ZTaR?usp=sharing
 
