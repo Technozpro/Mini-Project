@@ -11,4 +11,4 @@ To Run Project File Need To First Download Dataset From Above Link And Then On Y
 
 Sometimes Module Takes Time To Run So Be Patient
 
-At The Time OF Using Runtime URL Please Use URL Of Image Which Start With "HTTPS" OtherWise You Will Get "FILE NOT FOUND" ERROR
+At The Time OF Using Runtime URL Please Use URL Of Image Which Start With "HTTPS" OtherWise You Will Get "FILE NOT FOUND" ERROR 
