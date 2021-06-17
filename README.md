@@ -3,7 +3,7 @@
 
 Image Classification Using SVM Mini Project [ML-MINOR-MAY]
 
-Project Link - https://drive.google.com/file/d/1BHOEIPkgUPMJs0tW_01Plz11lINo3kgk/view?usp=sharing
+Project Link - https://colab.research.google.com/drive/1WxkBO-DloS0jJ80hcGuM6OqU4TtCKF9q?usp=sharing
 
 Data Of Images [dataset] -  https://drive.google.com/drive/folders/1JH-y9OHO3tFm5nBja3XtcZ10cGwu_V0m?usp=sharing
 
